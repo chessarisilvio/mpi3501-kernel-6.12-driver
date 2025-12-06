@@ -51,10 +51,8 @@ sudo reboot
 ### Step 2: Clone this repository
 
 cd ~
-git clone https://github.com/chessarisilvio/mpi3501-rpi-driver.git
-cd mpi3501-rpi-driver
-
-text
+git clone https://github.com/chessarisilvio/mpi3501-kernel-6.12-driver.git
+cd mpi3501-kernel-6.12-driver
 
 ### Step 3: Install dependencies
 sudo apt install -y xserver-xorg-video-fbdev xserver-xorg-input-evdev xinput
