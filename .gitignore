@@ -1,0 +1,6 @@
+*.log
+worker-log.txt
+TASK.md
+PROGRESS.md
+.env
+.DS_Store
